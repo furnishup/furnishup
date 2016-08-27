@@ -1,0 +1,23 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.jumbotron {
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.lead {
+  padding-top: 30px;
+  padding-bottom: 15px;
+}
+
+.btn-primary {
+  background-color: #569981;
+  border-color: #407361
+}
+
+.btn-primary:hover {
+  background-color: #4f8d77; 
+}
